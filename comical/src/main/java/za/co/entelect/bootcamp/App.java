@@ -8,6 +8,7 @@ public class App
         return value * CURRENT_RATE / 100 ;
         //git testing things
         //new branch
+        //adding for pull
     }
 
 }
