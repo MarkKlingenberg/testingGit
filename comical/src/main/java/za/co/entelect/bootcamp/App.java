@@ -6,6 +6,8 @@ public class App
 
     public float convertRandToDollar(double value){
         System.out.println("nanananaanan") ;
+        System.out.println("Hello world") ;
+
         return value * CURRENT_RATE / 100 ;
         //testing things
         //git testing things
