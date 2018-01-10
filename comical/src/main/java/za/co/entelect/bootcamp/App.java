@@ -6,6 +6,7 @@ public class App
 
     public float convertRandToDollar(double value){
         return value * CURRENT_RATE / 100 ;
+        //git testing things
     }
 
 }
